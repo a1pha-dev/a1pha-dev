@@ -7,6 +7,7 @@
 * Winner of the National Technological Olympiad in the profile "Mobile Application Development"
 * Finalist of the PROD2025 Industrial Development Olympiad
 * Winner of the Samsung Innovation Campus Android Bootcamp 2025: Open Source Culture
+* Now studying for a bachelor's degree at the Central University.
 
 ### **My stack**
 
