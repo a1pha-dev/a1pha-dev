@@ -1,7 +1,7 @@
 # **Welcome to my profile**
 
 ### **I am**
-* 18 y.o. full-stask developer
+* 19 y.o. full-stask developer / ML&DL engineer
 * Graduated with honors from Samsung Innvotion Campus (Mobile development track)
 * Graduated from Moscow Programmer School (3 years of education)
 * Winner of the National Technological Olympiad in the profile "Mobile Application Development"
